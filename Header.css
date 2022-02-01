@@ -1,0 +1,23 @@
+.header{
+    padding: 13px 10px 10px 15px;
+    margin-left: 13px;
+}
+.header__head{
+font-size: 30px ;
+font-weight: 700;
+color: black;
+display: flex;
+align-items: flex-start;
+}
+.header__text{
+    display: flex;
+    align-items: flex-start;
+    color: rgb(109, 108, 108);
+    margin-top: 14px;
+}
+.icon{
+    color: black;
+    width: 21px !important;
+    margin-right: 7px;
+   
+}

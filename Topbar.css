@@ -1,0 +1,20 @@
+.topbar{
+    margin: 10px 15px 15px 15px ;
+}
+.topbar__list{
+    display: flex;
+    list-style: none;
+}
+.topbar__top{
+   
+    padding: 10px ;
+    width: 210px;
+    font-weight: 500;
+    margin: 10px 10px 10px 10px;
+    border-radius: 30px;
+    border: 1px solid silver;
+}
+.button__active{
+    background-color: black;
+    color: white;
+}
